@@ -1,0 +1,56 @@
+Compression detected: gzip
+** Dump of '/Users/dale/Desktop/unitywebcheck/unit2.data.unityweb'
+
+File Signature: UnityWebData1.0\0
+Beginning Offset: 372 (0x00000174)
+
+File #0
+Name: data.unity3d
+Offset: 372 (0x00000174)
+Length: 81723532 (77.9MiB)
+
+File #1
+Name: resources.resource
+Offset: 81723904 (0x04DF0200)
+Length: 90702083 (86.5MiB)
+
+File #2
+Name: RuntimeInitializeOnLoads.json
+Offset: 172425987 (0x0A470303)
+Length: 4766 (4.7KiB)
+
+File #3
+Name: ScriptingAssemblies.json
+Offset: 172430753 (0x0A4715A1)
+Length: 4895 (4.8KiB)
+
+File #4
+Name: sharedassets2.resource
+Offset: 172435648 (0x0A4728C0)
+Length: 31435144 (30.0MiB)
+
+File #5
+Name: sharedassets3.resource
+Offset: 203870792 (0x0C26D248)
+Length: 1587876 (1.5MiB)
+
+File #6
+Name: sharedassets4.resource
+Offset: 205458668 (0x0C3F0CEC)
+Length: 1010005 (986.3KiB)
+
+File #7
+Name: boot.config
+Offset: 206468673 (0x0C4E7641)
+Length: 165 (165.0B)
+
+File #8
+Name: Il2CppData/Metadata/global-metadata.dat
+Offset: 206468838 (0x0C4E76E6)
+Length: 11552824 (11.0MiB)
+
+File #9
+Name: Resources/unity default resources
+Offset: 218021662 (0x0CFEBF1E)
+Length: 1627012 (1.6MiB)
+
